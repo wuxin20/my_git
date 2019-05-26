@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/1/17 14:42:18。
+     1>项目“D:\程序代码\顺序表\顺序表\顺序表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt text.c "顺序表.c"
+         顺序表.c
+     1>d:\程序代码\顺序表\顺序表\顺序表.c(185): warning C4552: “-”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\程序代码\顺序表\顺序表\顺序表.c(216): warning C4047: “==”:“int”与“void *”的间接级别不同
+         text.c
+     1>d:\程序代码\顺序表\顺序表\text.c(20): warning C4013: “SwqListFront”未定义；假设外部返回 int
+         正在生成代码...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\程序代码\顺序表\Debug\顺序表.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\程序代码\顺序表\Debug\顺序表.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\程序代码\顺序表\Debug\顺序表.lib" /MACHINE:X86 Debug\text.obj
+         "Debug\顺序表.obj"
+         顺序表.vcxproj -> D:\程序代码\顺序表\Debug\顺序表.exe
+     1>已完成生成项目“D:\程序代码\顺序表\顺序表\顺序表.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.48
